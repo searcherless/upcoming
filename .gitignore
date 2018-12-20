@@ -1,0 +1,16 @@
+*.diff
+*.err
+*.log
+*~
+.DS_Store
+.cache
+.project
+.settings
+.tmproj
+nbproject
+Thumbs.db
+
+node_modules/
+tmp/
+public/
+dist/
