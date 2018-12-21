@@ -1,7 +1,7 @@
 {
   "name": "searcherless",
   "version": 2,
-  "alias": ["searcherless.io"],
+  "alias": ["searcherless.io", "www.searcherless.io"],
   "builds": [
     { "src": "package.json", "use": "@now/static-build" },
     { "src": "dist/*", "use": "@now/static" }
